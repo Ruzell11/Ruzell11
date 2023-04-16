@@ -37,10 +37,10 @@ Hello there! I'm a passionate problem solver , currently in my first year of col
 <img alt="Ant Design" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48"/>
 
 <!-- Next.js -->
-<img alt="Next.js" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-js.png" width="48" height="48"/>
+<img alt="Next.js" src="https://tse2.mm.bing.net/th?id=OIP.jUo0n1so2wgz9Rwu4WrRLgHaGI&pid=Api&P=0" width="48" height="48"/>
 
 <!-- Express.js -->
-<img alt="Express.js" src="https://img.icons8.com/color/48/000000/express.png"/>
+<img alt="Express.js" src="https://camo.githubusercontent.com/235ffee87b3d9737a37c198d5c44a49ffc06cdbe9afa363c8892a41159040353/68747470733a2f2f63646e2e627574746572636d732e636f6d2f38616d38505a45435363446177516133334c7632"  width="48" height="48"/>
 
 <!-- MongoDB -->
 <img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
