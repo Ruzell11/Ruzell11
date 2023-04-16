@@ -11,6 +11,9 @@ Hello there! I'm a passionate problem solver , currently in my first year of col
 
 ⏰ Studying Real Time: I am dedicated to continuous learning and am always seeking out new opportunities to grow my skills and knowledge in real-time.
 
+<img alt="Bootstrap" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
+
+
 <!--
 **Ruzell11/Ruzell11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
