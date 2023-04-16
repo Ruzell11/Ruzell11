@@ -12,6 +12,46 @@ Hello there! I'm a passionate problem solver , currently in my first year of col
 ⏰ Studying Real Time: I am dedicated to continuous learning and am always seeking out new opportunities to grow my skills and knowledge in real-time.
 
 <img alt="Bootstrap" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
+<!-- TypeScript -->
+<img alt="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+
+<!-- React -->
+<img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+
+<!-- JavaScript -->
+<img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+
+<!-- Tailwind CSS -->
+<img alt="Tailwind CSS" src="https://img.icons8.com/color/48/000000/tailwind-css.png"/>
+
+<!-- Ant Design -->
+<img alt="Ant Design" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48"/>
+
+<!-- Next.js -->
+<img alt="Next.js" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-js.png" width="48" height="48"/>
+
+<!-- Express.js -->
+<img alt="Express.js" src="https://img.icons8.com/color/48/000000/express.png"/>
+
+<!-- MongoDB -->
+<img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+
+<!-- MySQL -->
+<img alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
+<!-- PHP -->
+<img alt="PHP" src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
+
+<!-- Laravel -->
+<img alt="Laravel" src="https://img.icons8.com/color/48/000000/laravel.png"/>
+
+
+- 📫 How to reach me: 
+<a href="ruzelldev@gmail.com"><img src="https://img.icons8.com/color/48/000000/email.png"/></a>ruzell@devgmail.com
+
+<a href="https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/john-ruzell-rivera-1026b0247/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+
+<!-- Email Icon -->
 
 
 <!--
