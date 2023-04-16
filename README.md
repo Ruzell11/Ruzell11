@@ -6,6 +6,9 @@
 	<meta charset="UTF-8">
 	<title>My GitHub Profile</title>
 	<style>
+		.img-container{
+		display:flex;
+		}
 		img {
 			width: 48px;
 			height: 48px;
@@ -23,11 +26,13 @@ Hello there! I'm a passionate problem solver , currently in my first year of col
 
 ⏰ Studying Real Time: I am dedicated to continuous learning and am always seeking out new opportunities to grow my skills and knowledge in real-time.
 
+
+
+<!-- React -
+<div class="img-container">
 <img alt="Bootstrap" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
 <!-- TypeScript -->
 <img alt="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-
-<!-- React -->
 <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 
 <!-- JavaScript -->
@@ -56,6 +61,7 @@ Hello there! I'm a passionate problem solver , currently in my first year of col
 
 <!-- Laravel -->
 <img alt="Laravel" src="https://img.icons8.com/color/48/000000/laravel.png"/>
+</div>
 
 
 - 📫 How to reach me: 
