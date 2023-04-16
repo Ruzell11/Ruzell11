@@ -53,6 +53,17 @@ Hello there! I'm a passionate problem solver , currently in my first year of col
 
 <!-- Laravel -->
 <img alt="Laravel" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+	
+
+
+
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon" height="30" width="30">
+
+
+
+
+
+
 
 </div>
 
