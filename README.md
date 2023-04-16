@@ -1,6 +1,18 @@
 ### Hi there 👋
 
-
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>My GitHub Profile</title>
+	<style>
+		img {
+			width: 48px;
+			height: 48px;
+		}
+	</style>
+</head>
+<body>
 Hello there! I'm a passionate problem solver , currently in my first year of college. I have a strong interest in using technology to drive business ideas forward, and I'm constantly seeking out new challenges to help me improve my skills. My areas of expertise include the MERN stack and Laravel, and I'm always eager to learn more about new technologies and tools. When I'm not coding, you can usually find me exploring new hobbies and enjoying time with friends and family. Thanks for checking out my profile, and feel free to reach out if you'd like to collaborate or chat!
 
 📚 Studying: I'm currently learning new skills and exploring new topics to broaden my knowledge and expertise.
@@ -47,9 +59,15 @@ Hello there! I'm a passionate problem solver , currently in my first year of col
 
 
 - 📫 How to reach me: 
-<a href="ruzelldev@gmail.com"><img src="https://img.icons8.com/color/48/000000/email.png"/></a>ruzell@devgmail.com
+<a href="ruzelldev@gmail.com"><img src="https://img.icons8.com/color/48/000000/email.png"/>
 
 <a href="https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/john-ruzell-rivera-1026b0247/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+</body>
+</html>
+
+
+
+
 
 <!-- Email Icon -->
 
