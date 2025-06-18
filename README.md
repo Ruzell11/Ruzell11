@@ -22,7 +22,6 @@ When I'm not coding, you can usually find me exploring new hobbies and enjoying 
   <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img alt="Ant Design" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48"/>
   <img alt="Next.js" src="https://tse2.mm.bing.net/th?id=OIP.jUo0n1so2wgz9Rwu4WrRLgHaGI&pid=Api&P=0" width="48" height="48"/>
-  <img alt="Express.js" src="https://camo.githubusercontent.com/235ffee87b3d9737a37c198d5c44a49ffc06cdbe9afa363c8892a41159040353/68747470733a2f2f63646e2e627574746572636d732e636f6d2f38616d38505a45435363446177516133334c7632" width="48" height="48"/>
   <img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img alt="PHP" src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
