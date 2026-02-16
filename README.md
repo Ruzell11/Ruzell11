@@ -3,30 +3,52 @@
 <head>
 </head>
 <body>
-Hello there! I'm a passionate problem solver, currently in my fourth year of college, striving to help businesses scale through effective tech solutions. I have a strong interest in using technology to drive business ideas forward, and I'm constantly seeking out new challenges to refine my skills. My areas of expertise include the MERN stack and Laravel, and I'm always eager to learn more about modern tools and technologies. 
 
-When I'm not coding, you can usually find me exploring new hobbies and enjoying time with friends and family. Thanks for checking out my profile—feel free to reach out if you'd like to collaborate or chat!
+<h2>Hi, I'm John 👋</h2>
 
-📚 <strong>Studying:</strong> I'm actively learning new skills and diving into topics that help me grow both technically and professionally.
+<p>
+I'm a product-focused software developer who builds systems that solve real user and business problems. 
+I specialize in designing and developing scalable web applications, internal tools, and automation solutions 
+that improve workflows, efficiency, and reliability. I approach development with a product mindset—meaning 
+I don’t just write code, I build solutions that deliver real impact.
+</p>
 
-🚀 <strong>Improving:</strong> I continuously look for ways to enhance my coding abilities and stay current with industry trends.
+<p>
+I work primarily with Python, JavaScript, PHP, and TypeScript across full-stack environments, and I enjoy 
+translating complex requirements into practical, production-ready systems. I thrive in fast-paced environments, 
+love solving technical challenges, and constantly push myself to learn better ways to build smarter software.
+</p>
 
-📖 <strong>Reading:</strong> I'm passionate about discovering innovative tech ideas and expanding my development knowledge.
+<hr>
 
-⏰ <strong>Real-Time Learning:</strong> I stay committed to learning in real-time, taking on hands-on projects that push me forward.
+📌 <strong>Focus:</strong> Building products users actually need  
+⚙️ <strong>Strength:</strong> Turning business problems into technical solutions  
+🚀 <strong>Current Goal:</strong> Creating scalable systems and impactful tools  
+🧠 <strong>Mindset:</strong> Think like a product builder, execute like an engineer  
 
-<div class="img-container">
-  <img alt="Bootstrap" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
+<hr>
+
+<h3>Tech Stack</h3>
+
+<div>
   <img alt="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img alt="Ant Design" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48"/>
-  <img alt="Next.js" src="https://tse2.mm.bing.net/th?id=OIP.jUo0n1so2wgz9Rwu4WrRLgHaGI&pid=Api&P=0" width="48" height="48"/>
+  <img alt="Next.js" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48"/>
+  <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img alt="PHP" src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
   <img alt="Laravel" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon" height="30" width="30">
+  <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
 </div>
+
+<hr>
+
+<p>
+💡 <strong>Open to collaborations, product ideas, and meaningful projects.</strong><br>
+If you're building something impactful, let's connect.
+</p>
+
 </body>
 </html>
