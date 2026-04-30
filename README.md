@@ -7,24 +7,28 @@
 <h2>Hi, I'm John 👋</h2>
 
 <p>
-I'm a product-focused software developer who builds systems that solve real user and business problems. 
-I specialize in designing and developing scalable web applications, internal tools, and automation solutions 
-that improve workflows, efficiency, and reliability. I approach development with a product mindset—meaning 
-I don’t just write code, I build solutions that deliver real impact.
+Full Stack Developer with 3+ years of experience building and shipping production systems across startups. 
+I specialize in backend systems, automation, and scalable web applications — delivering solutions that create 
+real business impact.
 </p>
 
 <p>
-I work primarily with Python, JavaScript, PHP, and TypeScript across full-stack environments, and I enjoy 
-translating complex requirements into practical, production-ready systems. I thrive in fast-paced environments, 
-love solving technical challenges, and constantly push myself to learn better ways to build smarter software.
+I’ve engineered systems that reduce workflows from months to minutes, built full-stack applications from 
+architecture to deployment, and automated processes that eliminate repetitive work. I work across 
+TypeScript, Python, React, Next.js, and AWS, and I’m comfortable owning the full lifecycle of a product.
+</p>
+
+<p>
+I thrive in fast-paced, remote environments where I can operate autonomously, solve complex problems, 
+and turn ambiguous requirements into reliable, production-ready systems.
 </p>
 
 <hr>
 
-📌 <strong>Focus:</strong> Building products users actually need  
-⚙️ <strong>Strength:</strong> Turning business problems into technical solutions  
-🚀 <strong>Current Goal:</strong> Creating scalable systems and impactful tools  
-🧠 <strong>Mindset:</strong> Think like a product builder, execute like an engineer  
+📌 <strong>Focus:</strong> Backend systems, automation, and scalable applications <br>
+⚙️ <strong>Strength:</strong> Turning complex business problems into efficient systems <br>
+🚀 <strong>Impact:</strong> Reduced core workflows by ~99% (months → minutes) <br>
+🌍 <strong>Availability:</strong> Open to remote roles (US/EU time zone overlap) <br>
 
 <hr>
 
@@ -33,21 +37,26 @@ love solving technical challenges, and constantly push myself to learn better wa
 <div>
   <img alt="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img alt="Next.js" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48"/>
+  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img alt="FastAPI" src="https://img.icons8.com/color/48/000000/api.png"/>
+  <img alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img alt="PostgreSQL" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img alt="PHP" src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
   <img alt="Laravel" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
-  <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img alt="AWS" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+  <img alt="GitHub Actions" src="https://img.icons8.com/color/48/000000/github.png"/>
 </div>
 
 <hr>
 
 <p>
-💡 <strong>Open to collaborations, product ideas, and meaningful projects.</strong><br>
-If you're building something impactful, let's connect.
+💡 <strong>Open to building impactful systems, collaborating on product ideas, or joining strong engineering teams.</strong><br>
+If you're working on something meaningful — let's connect.
 </p>
 
 </body>
